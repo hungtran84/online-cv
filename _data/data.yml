@@ -14,11 +14,10 @@ sidebar:
     # Sidebar links
     email: hungtran177@gmail.com
     phone: 084 902 563626
-    timezone: America/Cancun Timezone
-    citizenship:
+    timezone: Vietnam/HoChiMinh Timezone
     linkedin: hung-tran-ba6b0a89/
     github: hungtran84
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://pdflayer.com/
 
     languages:
       title: Languages
@@ -41,77 +40,57 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Innovative SRE/DevOps with a strong Linux background and 15+ years
+      of experience designing, implementing, and managing cutting-edge
+      deployment automation of cloud resources.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BSc in Electronics & Telecommunications
+        university: Hanoi University of Science and Technology
+        time: 2002 - 2007
 experiences:
     title: Experiences
     info:
-      - role: Platform Engineer
+      - role: Senior Site Reliability Engineer,
         time: 2020 - Present
-        company: Axon Vietnam, Ho Chi Minh 
+        company: Axon Vietnam, HCM city
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As a Senior Site Reliability Engineer, I'm working on solving the hard
+          problems. Problems like:
+          - Scalability: we store over 20+ petabytes of video information (and
+          growing fast). As a SRE, I take responsible for developing and integrating
+          solutions for automatic performance monitoring and scaling.
+
+          - InformationSecurity: Partner with our information security team to
+          deliver on high security standards, ensuring we follow industry standards
+          and government regulations around the globe.
+
+          - Maintainability: Implement strategies to maintain and grow our services
+          and infrastructure using modern technologies such as time-series
+          databases, searchable log metrics, cross-call tracing, and more.
+          
+          - Deployability: Build simplicity to deploy complex environments across
+          the globe with a zero-downtime, continuous deployment platform.
+          
+          - Engagement: Consult with the engineering teams design to deliver
+          services which are flexible, resilient, and a joy to operate.
+          
+          - Mentorship: Mentor others to learn, grow, and maintain high standards
+          within the organization.
+      - role: DevOps Engineer
+        time: 2018 - 2020
+        company: Wizeline Vietnam, HCM city
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - To be in charge of the Server Infrastructure.
+          - Help other teams to automate the application lifecycle, build, test,
+          stage and deploy.
+          - Encourage the use of best practices among the company.
+          - Write or Implement tools to improve the delivery of applications.
+          - Work with the engineering team and take architectural decisions.
+          - Identify, Solve and Prevent performance issues of many levels, IP
+          Stack, Application or operating system.
+
 projects:
     title: Projects
     intro: >
