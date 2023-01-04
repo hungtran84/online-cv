@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -52,8 +52,16 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Platform Engineer,
+        time: Aug 2020 - Present
+        company: Axon Vietnam, HCM city
+        details: |
+          - Build and implement cloud-native architectures with Kubernetes to support our growing workloads.
+          - Influence architectural decisions with focus on security, scalability and high-performance.
+          - Setup and maintain monitoring, metrics & reporting systems for fine-grained observability and actionable alerting.
+          - Solve hard problems around networking, storage and deployment.
       - role: Senior Site Reliability Engineer,
-        time: 2020 - Present
+        time: 2020 - Jul 2022
         company: Axon Vietnam, HCM city
         details: |
           As a Senior Site Reliability Engineer, I'm working on solving the hard
@@ -109,7 +117,14 @@ skills:
     toolset:
       - name: Azure
         level: 98%
-
+      - name: AWS
+        level: 70%
+      - name: GCP
+        level: 85%
+      - name: Kubernetes
+        level: 95%
+      - name: VMware
+        level: 80%
 
 
 footer: >
